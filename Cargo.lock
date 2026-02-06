@@ -195,7 +195,7 @@ dependencies = [
 [[package]]
 name = "protobuf"
 version = "4.0.0-alpha.0"
-source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
 dependencies = [
  "bytes",
  "once_cell",
@@ -206,7 +206,7 @@ dependencies = [
 [[package]]
 name = "protobuf-codegen"
 version = "4.0.0-alpha.0"
-source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
 dependencies = [
  "anyhow",
  "once_cell",
@@ -220,7 +220,7 @@ dependencies = [
 [[package]]
 name = "protobuf-parse"
 version = "4.0.0-alpha.0"
-source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
 dependencies = [
  "anyhow",
  "indexmap",
@@ -235,7 +235,7 @@ dependencies = [
 [[package]]
 name = "protobuf-support"
 version = "4.0.0-alpha.0"
-source = "git+https://github.com/bitdriftlabs/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
+source = "git+https://github.com/lyft/rust-protobuf.git?branch=patch-stack#b35660c7846ebdbb3e14c238832eb353a6dbdecf"
 dependencies = [
  "thiserror",
 ]
